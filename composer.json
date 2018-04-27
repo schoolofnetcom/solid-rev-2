@@ -1,0 +1,18 @@
+{
+    "name": "erikfig/solid",
+    "authors": [
+        {
+            "name": "Erik Figueiredo",
+            "email": "erik.figueiredo@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ErikFig\\Solid\\": "src"
+        }
+    },
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^7.1"
+    }
+}
